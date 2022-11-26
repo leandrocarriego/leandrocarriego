@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Front End React JS<br>💬 Ask me about HTML, CSS and JavaScript
+🌱 Soy estudiante de Ingenieria en Informatica y Fullstack developer<br>
 
 
 ## 🌐 Socials:
