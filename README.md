@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leandro</h1>
-<h3 align="center">Soy fullstack developer y estudiante de Ingeniería en Informática</h3>
+<h3 align="center">Soy Fullstack developer y estudiante de Ingeniería en Informática</h3>
 
-- 🌱 I’m currently learning **Django, .Net y realizando la Carrera de Desarrollo front-end con React en Coderhouse**
+- 🌱 I’m currently learning **Django, Node, .Net y realizando la Carrera de Desarrollo front-end con React en Coderhouse**
 
 - 📫 How to reach me **leandrocarriego@hotmail.com**
 
