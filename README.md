@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leandro</h1>
 <h3 align="center">Soy Fullstack Developer y estudiante de Ingeniería en Informática</h3>
 
-<h3>[VER PORTFOLIO](https://leandro-carriego-portfolio.onrender.com/)</h3>
+[VER PORTFOLIO](https://leandro-carriego-portfolio.onrender.com/)
 
 
 ## Mi perfil esta enfocado en: 
