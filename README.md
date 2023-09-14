@@ -10,10 +10,10 @@
 
 <table rules="none" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center">
+<!--     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="50" height="50"><br>
       Next.js
-    </td>
+    </td> -->
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="50" height="50"><br>
       React.js
