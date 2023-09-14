@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leandro</h1>
 <h3 align="center">Soy Fullstack Developer y estudiante de Ingeniería en Informática</h3>
 
-<a href="https://portfolio-leandro-carriego-b0srhz0fa-leandrocarriego.vercel.app/" target="_blank">VER PORTFOLIO</a>
+<a href="https://www.portfolio-leandro-carriego.site/" target="_blank">VER PORTFOLIO</a>
 
 
 ## Mi perfil esta enfocado en: 
