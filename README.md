@@ -2,6 +2,9 @@
 <h3 align="center">Soy Fullstack Developer</h3>
 
 ## <a href="https://portfolio-leandro-carriego.vercel.app/" target="_blank">VER PORTFOLIO</a>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/leandro-carriego/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leandro-carriego/" height="30" width="40" /></a>
+</p>
 
 
 ## Mi perfil esta enfocado en: 
@@ -102,14 +105,4 @@
   </tr>
 </table>
 
-##
-
-- 📫 How to reach me **leandrocarriego@hotmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/leandro-carriego/](https://www.linkedin.com/in/leandro-carriego/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/leandro-carriego/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leandro-carriego/" height="30" width="40" /></a>
-</p>
 
