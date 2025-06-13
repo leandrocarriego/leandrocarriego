@@ -1,108 +1,67 @@
-<h1 align="center">Hi 👋, I'm Leandro</h1>
-<h3 align="center">Soy Fullstack Developer</h3>
+<h1 align="center">Fullstack Developer · Founder</h1>
 
-## <a href="https://portfolio-leandro-carriego.vercel.app/" target="_blank">VER PORTFOLIO</a>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/leandro-carriego/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leandro-carriego/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/leandro-carriego/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat" />
+  </a>
+  <a href="https://portfolio-leandro-carriego.site" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=flat" />
+  </a>
+  <a href="https://portfolio-leandro-carriego.site" target="_blank">
+    <img src="https://img.shields.io/badge/Mendri-red?style=flat" />
+  </a>
 </p>
 
+---
 
-## Mi perfil esta enfocado en: 
+## 👨‍💻 Sobre mí
 
-## BackEnd
-<table>
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="Django" width="60" height="60">
-      <br>Django
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" width="60" height="60">
-      <br>FastAPI
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="70" height="60">
-      <br>Node.js
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="FastAPI" width="60" height="60">
-      <br>Express.js
-    </td>
-  </tr>
-</table>
+Soy desarrollador de software fullstack con foco en **backend y automatización con IA**. Actualmente trabajo en **[Machines Like Me](https://machineslikeme.com/)** creando APIs para automatizar procesos con **Python, FastAPI y OpenAI**. Tambien lidero técnicamente los proyectos de **[Mendri](https://www.mendrisoftware.com/)**, mi agencia de desarrollo de software, donde construimos soluciones de software a medida para empresas en proceso de digitalización.
+
+🧠 Autodidacta · ⚙️ Solutions-Oriented · 🚀 Apasionado por la escalabilidad y mantenibilidad de software.
+
+---
+
+## Tech Stack Principal
 
 
-### FrontEnd
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django)
 
-<table rules="none" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="50" height="50"><br>
-      Next.js
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="50" height="50"><br>
-      React.js
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React-Native" width="50" height="50"><br>
-      React-Native
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"><br>
-      TypeScript
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"><br>
-      JavaScript
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"><br>
-      HTML
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50"><br>
-      CSS
-    </td>
-  </tr>
-</table>
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![CircleCI](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=circleci&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
 
-## Styles
+### Otros (secundarios)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![Javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss)
 
-<table>
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4" alt="Tailwind CSS" width="50" >
-      <br>Tailwind CSS
-    </td>
-     <td align="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" width="50" height="50">
-      <br>SCSS
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50">
-      <br>Bootstrap
-    </td>
-  </tr>
-</table>
+---
 
-## Otros
-<table>
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50">
-      <br>Docker
-    </td>
-    <td align="center" style="border: none;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50">
-  <br>Git
-</td>
-<td align="center" style="border: none;">
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="50" height="50">
-  <br>Postman
-</td>
+## ⚡ En lo que estoy trabajando
 
-  </tr>
-</table>
+- Desarrollo de APIs orientadas a **automatización con IA**.
+- Diseño de soluciones de software para nuevos clientes en Mendri.
+- Mentoría técnica y coordinación de equipo en Mendri.
+- Mejora continua del stack en proyectos productivos (performance, testing, CI/CD).
 
+---
 
+## 📫 Contacto
+
+- leandro.carriego@mendrisoftware.com  
+- [LinkedIn](https://www.linkedin.com/in/leandro-carriego)  
+- [Portfolio](https://www.portfolio-leandro-carriego.site)
+
+---
+
+> “Write code for humans first, machines second.” — Clean Code mindset 💡
