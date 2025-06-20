@@ -18,6 +18,8 @@
 
 Soy desarrollador de software fullstack con foco en **backend y automatización con IA**. Actualmente trabajo en **[Machines Like Me](https://machineslikeme.com/)** creando APIs para automatizar procesos con **Python, FastAPI y OpenAI**. Tambien lidero técnicamente los proyectos de **[Mendri](https://www.mendrisoftware.com/)**, mi agencia de desarrollo de software, donde construimos soluciones de software a medida para empresas en proceso de digitalización.
 
+Paralelamente, desarrollo y mantengo un framework open source llamado **[MangoAPI](https://github.com/leandrocarriego/mangoapi)** para crear APIs limpias, asíncronas y modernas sobre Django. Es un proyecto personal que busca mejorar la experiencia de desarrollo backend con Django y que está abierto a colaboraciones.
+
 🧠 Autodidacta · ⚙️ Solutions-Oriented · 🚀 Apasionado por la escalabilidad y mantenibilidad de software.
 
 ---
